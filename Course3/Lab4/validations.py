@@ -1,3 +1,8 @@
+Closes: #1
+
+Updated validations.py python script.
+
+Fixed the behavior of validate_user function in validations.py.
 #!/usr/bin/env python3
 
 import re
